@@ -26,7 +26,7 @@ function App() {
         </div>
       </div>
       <div className='App-main' style={{ position:'relative',height:'478px' }}>
-        <img src="https://img.alicdn.com/tfs/TB14TEEm7CWBuNjy0FaXXXUlXXa-1440-478.png" style={{ verticalAlign:'middle', width:'100%'}} />
+        <img src="https://img.alicdn.com/tfs/TB14TEEm7CWBuNjy0FaXXXUlXXa-1440-478.png" style={{ verticalAlign:'middle', width:'100%',height:'100%'}} />
         <div style={{ position: 'absolute',top:0,left:0,width: '100%',height:'100%' ,background:'rgba(31,56,88,0.40)'}}></div>
         <div className='App-box' style={{height:'100%'}}>
           <form>
